@@ -1,7 +1,7 @@
 # Posos_challenge
 
 ## Running the code
-Once you have pulled the repo, first unpack the data in [a relative link](Data).
+Once you have pulled the repo, first unpack the data in [/Data](Data).
 Then you are ready to train and launch the api using
 ```
 make train
@@ -18,7 +18,7 @@ curl -X GET \
 ```
 
 ## Playing with the data
-I explored the data and tried a few configurations in the following notebook [a relative link](Data/explore.ipynb) (the kernel was restared so it didn't store the data)
+I explored the data and tried a few configurations in the following notebook [explore.ipynb](Data/explore.ipynb) (the kernel was restared so it didn't store the data)
 
 ## Improvements
 _ Study the word correlation between classes  
