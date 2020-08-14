@@ -1,4 +1,4 @@
-# Posos_challenge
+# hallenge
 
 ## Running the code
 Once you have pulled the repo, first unpack the data in [/Data](Data).
